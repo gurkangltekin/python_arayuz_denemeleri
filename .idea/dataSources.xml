@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="kullaniciGirisi" uuid="50d27438-816f-4c76-8fef-5ca6ebab07de">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\gurkangltekin\OneDrive - Istanbul Universitesi\Belgeler\PyCharmProjects\arayuz\kullanici_giris\kullaniciGirisi.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
